@@ -1,0 +1,176 @@
+body{
+	background-color: grey;
+}
+
+
+.top1{
+  border:6px solid red;
+  width: 360px;
+  border-radius: 15px;
+  background-color: white;
+  text-align: center;
+  font-size: x-large;
+  font-weight: bold;
+  font-style: oblique;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: darkred;
+  margin: auto;
+  height:110px;
+  line-height:38px;
+  } 
+
+
+
+.mainbox{
+	border: 5px solid red;
+	height: 650px;
+	border-width: 7px;
+	position: relative;
+}  
+
+.box1{
+  border:6px solid red;
+  width: 230px;
+  border-radius: 15px;
+  background-color: white;
+  text-align: center;
+  font-size: x-large;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: black;
+  height:200px;
+  line-height:38px;
+  margin-top: 2px;
+  margin-left: 2px;
+  font-family: 'Lexend', sans-serif;
+  box-shadow: 7px 7px rgb(124, 7, 124); 
+  text-shadow: 2px 2px 2px  rgb(128, 0, 128, 0.705);
+  float: left; 
+}
+
+.box2{
+	border:6px solid red;
+	border-radius: 15px;
+    width: 190px;
+    height: 200px;
+    position: absolute;
+    margin-left: 1050px;
+    margin-bottom: 800px;
+    float: right;
+    padding-top: 15px;
+    padding-left: 50px;
+    margin-top: 2px;
+    box-shadow: 7px 7px rgb(124, 7, 124); 
+    background-color: white;
+}
+
+.box3{
+	 border:6px solid red;
+    border-radius: 15px;
+    height:200px;
+    width:245px;
+    margin-top: 400px;
+    margin-left: 2px;
+    box-shadow: 7px 7px rgb(124, 7, 124); 
+    text-shadow: 2px 2px 2px  rgb(128, 0, 128, 0.705);
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: white;
+    padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.box4{
+  border:6px solid red;
+  border-radius: 15px;
+    width: 200px;
+    height: 220px;
+    margin-bottom: 900px;
+    margin-top: -230px;
+    margin-right: 10px;
+    float: right;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 7px 7px rgb(124, 7, 124); 
+    text-shadow: 2px 2px 2px  rgb(128, 0, 128, 0.705);
+    background-color: white;
+    font-family: 'Lexend', sans-serif;
+    font-weight: bold;
+    font-size:larger;
+    text-align: center;
+}
+
+.sticky-box {
+border: 4px solid red;
+background-color: greenyellow;
+display: inline-block;
+font-size: 20px;
+width: 600px;
+height: 90px;
+bottom: 30px;
+left: 360px;
+position: fixed;
+border-radius: 14px;
+font-style: oblique;
+font-size:x-large;
+box-shadow: 7px 7px rgb(124, 7, 124); 
+}
+
+#leftside{
+float: left;
+padding-left: 20px;
+}
+
+#rightside{
+float: right;
+padding-right: 15px;
+}
+
+#downbox{
+   width: 700px;
+   height: 650px;
+   border: 4px solid purple; 
+   background-color: green; 
+   text-align: center;
+   margin-top: 10px;
+} 
+
+#downbox h5{
+    text-align: center;
+    font-size: 24px;
+    line-height: 1px;
+    text-transform: capitalize;
+}
+
+.food1{
+    background-color: rgb(200, 200, 60);
+    float: left;
+    width: 49%;
+    height: 262px;
+    text-transform: uppercase;
+}
+
+.food2{
+    background-color: rgb(200, 200, 60);
+    float: right;
+    width: 348px;
+    height: 262px;
+    text-transform: uppercase;
+
+}
+
+.diff_food{
+    background-color: rgb(200, 200, 60);
+    width: 100%;
+    height: 285px;
+    margin-top: 255px;
+    padding-top: 1px;
+    text-transform: uppercase; 
+}
+
